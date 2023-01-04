@@ -1,1 +1,3 @@
-![indir](https://user-images.githubusercontent.com/30412755/210522329-0ff97bee-f63c-4464-8bef-072a8e160231.gif)
+<p align="center">
+  <img width="460" height="300" src="https://pin.it/7jb5zKv">
+</p>
